@@ -3,14 +3,31 @@
     width: 400px;
     border: 0;
     box-shadow: 0px 0px 8px 0px;
-    padding: 10px 0px 10px 35px
+    padding: 10px 0px 10px 35px;
 }
 
-img {
+form {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.search {
     width: 15px;
-    position: absolute;
-    left: 20px;
-    top: 18px;
+    position: relative;
+    left: 50px;
+}
+
+.mic {
+    width: 9px;
+    position: relative;
+    left: 405px;
+}
+
+.lens {
+    width: 15px;
+    position: relative;
+    left: 420px;
 }
 
 #searchbar:focus {
