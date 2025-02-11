@@ -1,0 +1,31 @@
+body {
+    background-color: #DABECA;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+form {
+    margin: auto;
+}
+
+fieldset {
+    padding-left: 20px;
+    text-align: start;
+}
+
+label {
+    display: block;
+    padding: 10px 0px 10px 0px;
+}
+
+.yesorno {
+
+}
+
+input, select{
+    background-color: #E3D8F1;
+    border: 0;
+    border-radius: 8px;
+    font-size: 30px;
+    width: 100%;
+}
