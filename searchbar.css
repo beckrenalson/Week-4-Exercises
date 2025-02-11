@@ -1,0 +1,18 @@
+#searchbar {
+    border-radius: 20px;
+    width: 400px;
+    border: 0;
+    box-shadow: 0px 0px 8px 0px;
+    padding: 10px 0px 10px 35px
+}
+
+img {
+    width: 15px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+}
+
+#searchbar:focus {
+    outline: none;
+}
